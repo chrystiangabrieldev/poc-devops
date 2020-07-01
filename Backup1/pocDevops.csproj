@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <FileUpgradeFlags>40</FileUpgradeFlags>
-    <UpgradeBackupLocation>C:\Users\chrys\Documents\ProvaDeConceito\VueJs\pocDevops\Backup1\</UpgradeBackupLocation>
-    <OldToolsVersion>15.0</OldToolsVersion>
+    <UpgradeBackupLocation>C:\Users\chrys\Documents\ProvaDeConceito\VueJs\pocDevops\Backup\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
 </Project>
